@@ -170,7 +170,7 @@ export const education = [
     title: "B.Sc. in Electrical & Electronic Engineering",
     duration: "Nov 16 - Aug 21",
     subtitle: "Ahsanullah University of Science & Technology",
-    details: [],
+    details: [CGPA: 3.584/4.00, Last Four Semesters CGPA: 3.854/4.00],
     tags: [
       "VLSI I & II",
       "Computer Architecture",
@@ -185,7 +185,7 @@ export const education = [
     title: "Higher School Certificate in Science",
     duration: "2015",
     subtitle: "Board of Education, Dhaka",
-    details: [],
+    details: [GPA: 5.00/5.00],
     tags: ["Physics", "Chemistry", "Mathematics"],
     icon: "book",
   },
