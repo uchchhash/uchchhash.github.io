@@ -470,6 +470,10 @@ import { URLs } from './user-data/urls.js';
   }
   
   populateBio(bio, "bio");
+  populateExp_Edu(experience, "experience");
+  populateExp_Edu(education, "education");
+  
+  
   
   // populateSkills(skills, "skills");
   
@@ -481,8 +485,7 @@ import { URLs } from './user-data/urls.js';
   // populateProjects(androidProjects, "android-projects");
   // populateProjects(freelanceProjects, "freelance-projects");
   
-  // populateExp_Edu(experience, "experience");
-  // populateExp_Edu(education, "education");
+ 
   
   // populateLinks(footer, "footer");
   
