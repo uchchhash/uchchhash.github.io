@@ -1,6 +1,7 @@
 export const bio = [
-  "Hello! I'm Vinay Somawat, an experienced Frontend Software Engineer with a proven ability to upgrade applications, optimize performance, and deliver innovative solutions.",
-  "I am passionate about using my technical skills to drive impactful contributions in challenging projects.",
+  "Hi, I'm Uchchhash Sarkar.",
+  "II am a Design Verification Engineer, with a B.Sc. in EEE.",
+  "My research interests include System-on-Chip, Computer Architecture, In-Memory Computing, AI Accelerators, and Hardware Security.",
   "Thanks for visiting!",
 ];
 
