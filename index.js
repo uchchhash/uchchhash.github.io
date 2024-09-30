@@ -1,16 +1,11 @@
 import {
   bio,
-//  skills,
-  projects,
   education,
   experience,
-  //footer,
+  projects
 } from "./data.js";
 
 import { URLs } from './user-data/urls.js';
-
-const { webProjects, softwareProjects, androidProjects, freelanceProjects } =
-  projects;
 const { medium, gitConnected } = URLs;
 
 /**
@@ -99,119 +94,6 @@ function populateBio(items, id) {
   });
 }
 
-/**
- * Populates skills to the HTML page.
- *
- * @function
- *
- * @param {Array} items - An array of objects that contain skill information.
- * @param {string} id - The id of the HTML element to which skills will be appended.
- *
- * @returns {void}
- */
-
-function populateSkills(items, id) {
-  const skillsTag = document.getElementById(id);
-  items.forEach(({ skillName, color, percentage }) => {
-    const h3 = getElement("h3", null);
-    h3.innerHTML = skillName;
-
-    const divProgress = getElement("div", "progress");
-    const divProgressBar = getElement("div", `progress-bar color-${color}`);
-    divProgressBar.style = `width: ${percentage}%`;
-    divProgress.append(divProgressBar);
-
-    const divProgressWrap = getElement("div", "progress-wrap");
-    divProgressWrap.append(h3, divProgress);
-
-    const divAnimateBox = getElement("div", "col-md-6 animate-box");
-    divAnimateBox.append(divProgressWrap);
-
-    skillsTag.append(divAnimateBox);
-  });
-}
-
-/**
- * Populates projects to the HTML page.
- *
- * @function
- *
- * @param {Array} items - An array of objects that contain project information.
- * @param {string} id - The id of the HTML element to which projects will be appended.
- *
- * @returns {void}
- */
-
-function populateProjects(items, id) {
-  let projectdesign = document.getElementById(id);
-
-  let h4 = document.createElement("h4");
-  h4.className = "project-heading";
-
-  let a = document.createElement("a");
-  a.target = "_blank";
-
-  let img = document.createElement("img");
-  img.className = "img-fluid";
-
-  let divResumeContentLeft = document.createElement("div");
-  divResumeContentLeft.className = "resume-content";
-  divResumeContentLeft.id = "left-div";
-  divResumeContentLeft.append(img);
-
-  let divResumeContentRight = document.createElement("div");
-  divResumeContentRight.className = "resume-content";
-  divResumeContentRight.id = "right-div";
-
-  let p = document.createElement("p");
-  p.className = "project-description";
-
-  let divSpan = document.createElement("div");
-
-  let divSubHeading = document.createElement("div");
-  divSubHeading.className = "sub-heading";
-  divSubHeading.append(p);
-  divSubHeading.append(divSpan);
-  divResumeContentRight.append(divSubHeading);
-
-  let divResumeItem = document.createElement("div");
-  divResumeItem.className = "resume-item";
-  divResumeItem.append(divResumeContentLeft);
-  divResumeItem.append(divResumeContentRight);
-  a.append(divResumeItem);
-
-  let divProjectCard = document.createElement("div");
-  divProjectCard.className = "project-card";
-  divProjectCard.append(a);
-
-  let li = document.createElement("li");
-  li.append(divProjectCard);
-
-  let hr = document.createElement("hr");
-
-  for (let i = 0; i < items.length; i++) {
-    h4.innerHTML = items[i].projectName;
-    a.href = items[i].preview;
-
-    img.src = items[i].image;
-
-    p.innerHTML = items[i].summary;
-
-    divSpan.innerHTML = "";
-    for (let k = 0; k < items[i].techStack.length; k++) {
-      let span = document.createElement("span");
-      span.className = "badge badge-secondary";
-      span.innerHTML = items[i].techStack[k];
-      divSpan.append(span);
-    }
-
-    projectdesign.append(li.cloneNode(true));
-
-    if (i != items.length - 1) {
-      projectdesign.append(hr.cloneNode(true));
-    }
-  }
-}
 
 /**
  * Creates and populates a list of blog posts with specified properties
@@ -471,17 +353,11 @@ function getBlogDate(publishDate) {
 
 populateBio(bio, "bio");
 
-//populateSkills(skills, "skills");
-
 fetchBlogsFromMedium(medium);
 fetchGitConnectedData(gitConnected);
 
-populateProjects(webProjects, "web-projects");
-populateProjects(softwareProjects, "software-projects");
-populateProjects(androidProjects, "android-projects");
-populateProjects(freelanceProjects, "freelance-projects");
-
 populateExp_Edu(experience, "experience");
 populateExp_Edu(education, "education");
+populateExp_Edu(projects, "projects");
 
 populateLinks(footer, "footer");
