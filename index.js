@@ -1,10 +1,10 @@
 import {
   bio,
-  skills,
+//  skills,
   projects,
   education,
   experience,
-  footer,
+  //footer,
 } from "./data.js";
 
 import { URLs } from './user-data/urls.js';
@@ -471,7 +471,7 @@ function getBlogDate(publishDate) {
 
 populateBio(bio, "bio");
 
-populateSkills(skills, "skills");
+//populateSkills(skills, "skills");
 
 fetchBlogsFromMedium(medium);
 fetchGitConnectedData(gitConnected);
