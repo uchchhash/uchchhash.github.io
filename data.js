@@ -50,8 +50,8 @@ export const experience = [
 export const projects = [
   {
     title: "Customer Testbench Development of HBM4 PHY Layer",
-    duration: "June 24 - Present",
-    subtitle: "Ulkasemi Limited",
+    subtitle: "June 24 - Present",
+    duration: "",
     details: [
       "Worked on the development of the testbench architecture and test case plans.",
       "Developed clock, reset, and TDR agents and integrated them into the testbench architecture",
@@ -63,8 +63,8 @@ export const projects = [
   },
   {
     title: "Functional Coverage Checkers Development for LPDDR5x/4x",
-    duration: "April 24 - Present",
-    subtitle: "Ulkasemi Limited",
+    subtitle: "April 24 - Present",
+    duration: "",
     details: [
       "Monitored interactions between the memory controller and PHY through the DFI interface and flagged any illegal behaviors.",
       "Created coverage bins to catch these illegal actions, helping the Memory Controller team identify protocol violations instead of PHY issues.",
@@ -75,8 +75,8 @@ export const projects = [
   },
   {
     title: "Development and Integration of DMS Models and UVM Testbench for SoC Verification",
-    duration: "November 23 - January 24",
-    subtitle: "Ulkasemi Limited",
+    subtitle: "November 23 - January 24",
+    duration: "",
     details: [
       "Contributed to DMS model development using SystemVerilog RNM and UDN for efficient analog-digital SoC verification.",
       "Integrated and validated analog models (e.g., PLL, PMU) in UVM testbenches, reducing simulation time.",
@@ -87,8 +87,8 @@ export const projects = [
   },
   {
     title: "Functional Verification of USB Type-C and USB PD Controller",
-    duration: "August 22 - October 22",
-    subtitle: "Ulkasemi Limited",
+    subtitle: "August 22 - October 22",
+    duration: "",
     details: [
       "Developed the test case, assertion, and functional coverage plan from the specification for the clock reset block.",
       "Developed top-level test cases to transition between different power modes (active, idle, and sleep).",
@@ -99,8 +99,8 @@ export const projects = [
   },
   {
     title: "Mixed Signal Modeling and Verification of Next-Gen Wireless Base Band Generator",
-    duration: "April-June 22",
-    subtitle: "Ulkasemi Limited",
+    subtitle: "April-June 22",
+    duration: "",
     details: [
       "Developed behavioral models and self-checking testbenches for verifying the functionality of the mixed-signal design, including Power-on Reset, Thermal Shutdown Detect (TSD), Ultra-Low Voltage Detect (UVLO), LDO, Bias and Bandgap Generator, Oscillators, and Data Converters.",
       "Created a top-level test plan and verified the power-up sequence of the chip.",
@@ -111,8 +111,8 @@ export const projects = [
   },
   {
     title: "Real Number Modeling of Analog Blocks of Touch Controller",
-    duration: "Jan-Feb 23",
-    subtitle: "Ulkasemi Limited",
+    subtitle: "Jan-Feb 23",
+    duration: "",
     details: [
       "Developed behavioral models in SystemVerilog Real Number (RNM) of various analog mixed-signal blocks such as LDO, ADC, DAC, Inverter, Level Shifter, Clock Generator, and Bandgap Reference.",
       "Created self-checking testbenches in Verilog AMS to validate the behavioral models according to the design specifications and analog models.",
@@ -123,8 +123,8 @@ export const projects = [
   },
   {
     title: "Functional Verification of AMBA APB, AHB, AXI Slave, I2C Slave, and SPI Master Controller",
-    duration: "Dec 21 - Aug 23",
-    subtitle: "Ulkasemi Limited",
+    subtitle: "Dec 21 - Aug 23",
+    duration: "Ulkasemi Limited",
     details: [
       "Created test cases, coverage, and assertion plans based on design specifications for the IPs.",
       "Built UVM verification components, including drivers, monitors, and scoreboards.",
@@ -148,7 +148,7 @@ export const projects = [
   {
     title: "Data Science and Machine Learning Projects",
     duration: "June-July 21",
-    subtitle: "Personal Project",
+    subtitle: "Personal Projects",
     details: [
       "Conducted data pre-processing, analysis, and visualization for bike-sharing demand prediction and Titanic survival prediction datasets.",
       "Applied various regression and classification machine learning techniques to predict bike-sharing demand and passenger survival.",
