@@ -158,4 +158,46 @@ export const projects = [
   },
 ];
 
-
+export const courses = [
+  {
+    title: "Python for Everybody Specialization",
+    duration: "May - July 20",
+    subtitle: "University of Michigan on Coursera",
+    details: [
+      "Basic Python",
+      "Python Data Structures",
+      "Using Python to Access Web Data",
+      "Retrieving, Processing, and Visualizing Data with Python",
+    ],
+    tags: ["Certificate of Compilation"],
+    icon: "certificate",
+  },
+  {
+    title: "Neural Networks and Deep Learning",
+    duration: "September 20",
+    subtitle: "DeepLearning.AI on Coursera",
+    details: [
+      "Deep Learning",
+      "Artificial Neural Networks",
+      "Backpropagation",
+      "Neural Network Architecture",    ],
+    tags: ["Certificate of Compilation"],
+    icon: "brain",
+  },
+  {
+    title: "Data Science with Python",
+    duration: "June 21",
+    subtitle: "Quantum.ai, BD",
+    details: [
+      "Python",
+      "Statistics and Probability",
+      "Web Scraping",
+      "Data Preprocessing",
+      "Data Visualization",
+      "Exploratory Data Analysis",
+      "Supervised Learning",
+    ],
+    tags: ["Certificate of Completion"],
+    icon: "chart-line",
+  },
+];

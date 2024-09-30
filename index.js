@@ -2,7 +2,8 @@ import {
   bio,
   education,
   experience,
-  projects
+  projects,
+  courses
 } from "./data.js";
 
 import { URLs } from './user-data/urls.js';
@@ -359,5 +360,6 @@ fetchGitConnectedData(gitConnected);
 populateExp_Edu(experience, "experience");
 populateExp_Edu(education, "education");
 populateExp_Edu(projects, "projects");
+populateExp_Edu(courses, "courses");
 
 populateLinks(footer, "footer");
