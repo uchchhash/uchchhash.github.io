@@ -9,6 +9,24 @@
 
 ---
 
+## 🧑‍💻 About
+
+**Design Verification Engineer** with 3.5+ years of experience in UVM-based functional verification, RTL design, and mixed-signal modeling.  
+Graduated from AUST (EEE, CGPA 3.584) with a strong foundation in VLSI, Computer Architecture, and Digital Logic Design.  
+Experienced in verification of high-speed interfaces and SoC components, along with mentoring, training, and technical recruitment.
+
+---
+
+## 🔬 Research Interests
+
+- System-on-Chip (SoC) Architectures  
+- Computer Architecture & Memory Systems  
+- Hardware Accelerators for AI/ML  
+- Processing-in-Memory (PiM)  
+- Hardware Security
+
+---
+
 ## 🎓 Academic Credentials
 
 **Bachelor of Science (B.Sc.) in Electrical and Electronic Engineering**  
