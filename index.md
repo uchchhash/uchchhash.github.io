@@ -43,7 +43,7 @@
 <summary><strong>Contingent Worker – Contracted to Synopsys, Inc.</strong><br><em>Ulkasemi Private Limited, Dhaka, Bangladesh</em><br><strong>Duration:</strong> Mar 2024 – Present</summary>
 
 <ul>
-  <li>Contributing to RTL design verification, focusing on high-speed protocols such as LPDDR and HBM.</li>
+  <li>Contributing to RTL design verification, focusing on high-speed protocols such as LPDDR5x/4 and HBM3.</li>
   <li>Conducting debugging, coverage analysis, and protocol checks to ensure design compliance with specifications.</li>
   <li>Ensuring design compliance through collaboration with global DV teams.</li>
 </ul>
@@ -84,7 +84,7 @@ Presented at the 9th IEEE International Women in Engineering (WIE) Conference on
 ### 🔌 High-Speed Interface and Protocol Verification
 
 <details>
-<summary><strong>✅ Functional Verification of HBM4 PHY Layer</strong><br><em><strong>Organization:</strong> Synopsys Inc</em><br><strong>Objective:</strong> Implement and verify HBM4 PHY initialization and training sequences for mission mode readiness.</summary>
+<summary><strong>✅ Functional Verification of HBM3 PHY Layer</strong><br><em><strong>Organization:</strong> Synopsys Inc</em><br><strong>Objective:</strong> Implement and verify HBM3 PHY initialization and training sequences for mission mode readiness.</summary>
 
 <p><strong>Contributions:</strong><br></p>
 <ul>
@@ -100,11 +100,11 @@ Presented at the 9th IEEE International Women in Engineering (WIE) Conference on
 <sub>&nbsp;</sub>  
 
 <details>
-<summary><strong>✅ Functional Coverage Checkers Development for LPDDR54x</strong><br><em><strong>Organization:</strong> Synopsys Inc</em><br><strong>Objective:</strong> Develop a portable functional coverage checker for LPDDR54x interfaces, ensuring protocol compliance and scalability.</summary>
+<summary><strong>✅ Functional Coverage Checkers Development for LPDDR54x</strong><br><em><strong>Organization:</strong> Synopsys Inc</em><br><strong>Objective:</strong> Develop a portable functional coverage checker for LPDDR5x/4 interfaces, ensuring protocol compliance and scalability.</summary>
 
 <p><strong>Contributions:</strong><br></p>
 <ul>
-  <li>Implemented illegal bin coverage for LPDDR4 and LPDDR5, focusing on critical scenarios such as frequency changes, low power states, snooping, and sideband operations.</li>
+  <li>Implemented illegal bin coverage for LPDDR4 and LPDDR5x, focusing on critical scenarios such as frequency changes, low power states, snooping, and sideband operations.</li>
   <li>Developed a modular architecture using macros to support incremental updates and compatibility across DDR/LPDDR IPs, including LPDDR6.</li>
   <li>Designed targeted negative test cases to ensure accurate detection of illegal conditions and enhance protocol compliance validation.</li>
   <li>Currently working on extending coverage for additional scenarios as part of the ongoing project.</li>
@@ -308,7 +308,7 @@ Recognized for contributions in the paper "<em>Advanced UVM-Based Chip Verificat
 <ul>
   <li>AMBA (APB, AHB, AXI)</li>
   <li>SPI, I2C, UART</li>
-  <li>DFI, DDR, HBM4 PHY</li>
+  <li> HBM3 PHY</li>
 </ul>
 
 </details>
