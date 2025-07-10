@@ -100,7 +100,7 @@ Presented at the 9th IEEE International Women in Engineering (WIE) Conference on
 <sub>&nbsp;</sub>  
 
 <details>
-<summary><strong>✅ Functional Coverage Checkers Development for LPDDR54x</strong><br><em><strong>Organization:</strong> Synopsys Inc</em><br><strong>Objective:</strong> Develop a portable functional coverage checker for LPDDR5x/4 interfaces, ensuring protocol compliance and scalability.</summary>
+<summary><strong>✅ Functional Coverage Checkers Development for LPDDR5x/4</strong><br><em><strong>Organization:</strong> Synopsys Inc</em><br><strong>Objective:</strong> Develop a portable functional coverage checker for LPDDR5x/4 interfaces, ensuring protocol compliance and scalability.</summary>
 
 <p><strong>Contributions:</strong><br></p>
 <ul>
@@ -155,7 +155,10 @@ Presented at the 9th IEEE International Women in Engineering (WIE) Conference on
 ### 💻 Digital Design and Functional Verification
 
 <details>
-<summary><strong>✅ RTL Design and Functional Verification of AHB to APB Bridge</strong><br><em><strong>Organization:</strong> Ulkasemi Internal</em><br><strong>Objective:</strong> Design and verify an AHB to APB protocol bridge to enable communication between high-speed AHB and low-speed APB peripherals in SoC systems.</summary>
+<summary><strong>✅ RTL Design and Functional Verification of AHB to APB Bridge</strong><br>
+<em><strong>Organization:</strong> Ulkasemi Internal</em><br>
+<strong>Objective:</strong> Design and verify an AHB to APB protocol bridge to enable communication between high-speed AHB and low-speed APB peripherals in SoC systems.<br>
+<strong>GitHub Repository:</strong> <a href="https://github.com/uchchhash/ahb-apb-bridge-design-verification.git">AHB to APB Bridge Design & Verification</a></em></summary>
 
 <p><strong>Contributions:</strong><br></p>
 <ul>
@@ -169,10 +172,14 @@ Presented at the 9th IEEE International Women in Engineering (WIE) Conference on
 
 <br> <!-- Add a visual gap -->
 </details>
+
 <sub>&nbsp;</sub>  
 
 <details>
-<summary><strong>✅ RTL Design and Functional Verification of Foundational Digital Modules</strong><br><em><strong>Organization:</strong> Ulkasemi Internal</em><br><strong>Objective:</strong> Design and verify sequential digital modules using Verilog and SystemVerilog. (Traffic Light Controller, 4-bit Binary Counter, and Universal Shift Register)</summary>
+<summary><strong>✅ RTL Design and Functional Verification of Foundational Digital Modules</strong><br>
+<em><strong>Organization:</strong> Ulkasemi Internal</em><br>
+<strong>Objective:</strong> Design and verify sequential digital modules using Verilog and SystemVerilog. (Traffic Light Controller, 4-bit Binary Counter, and Universal Shift Register)<br>
+<strong>GitHub Repository:</strong> <a href="https://github.com/uchchhash/rtl-dv-foundational-modules.git">RTL & DV of Foundational Modules</a></em></summary>
 
 <p><strong>Contributions:</strong><br></p>
 <ul>
@@ -184,6 +191,7 @@ Presented at the 9th IEEE International Women in Engineering (WIE) Conference on
 
 <br> <!-- Add a visual gap -->
 </details>
+
 <sub>&nbsp;</sub>  
 
 
@@ -242,7 +250,10 @@ Recognized for contributions in the paper "<em>Advanced UVM-Based Chip Verificat
 <sub>&nbsp;</sub>  
 
 <details>
-<summary><strong>🎯 Predictive Modelling Using Supervised Learning Techniques</strong><br><em><strong>Organization:</strong> Quantum.AI, BD</em><br><strong>Objective:</strong> Apply supervised machine learning algorithms to solve regression and classification problems using real-world datasets.</summary>
+<summary><strong>🎯 Predictive Modelling Using Supervised Learning Techniques</strong><br>
+<em><strong>Organization:</strong> Quantum.AI, BD</em><br>
+<strong>Objective:</strong> Apply supervised machine learning algorithms to solve regression and classification problems using real-world datasets.<br>
+<strong>GitHub Repository:</strong> <a href="https://github.com/uchchhash/ml-prediction-projects.git">ML Prediction Projects</a></em></summary>
 
 <p><strong>Contributions:</strong><br></p>
 <ul>
@@ -255,6 +266,7 @@ Recognized for contributions in the paper "<em>Advanced UVM-Based Chip Verificat
 
 <br> <!-- Add a visual gap -->
 </details>
+
 <sub>&nbsp;</sub>  
 
 
