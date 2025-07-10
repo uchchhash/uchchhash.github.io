@@ -133,7 +133,10 @@ Presented at the 9th IEEE International Women in Engineering (WIE) Conference on
 <sub>&nbsp;</sub>  
 
 <details>
-<summary><strong>✅ Functional Verification of Standard Bus Protocol IPs</strong><br><em><strong>Organization:</strong> Ulkasemi Internal</em><br><strong>Objective:</strong> Develop UVM-based environments to verify protocol-specific IPs (APB, AHB, AXI, I2C, SPI, UART). <br><em><strong>GitHub Repository:</strong> <a href="https://github.com/uchchhash/bus-protocol-verification.git">Bus Protocol Verification</a></p></em><br> </summary>
+<summary><strong>✅ Functional Verification of Standard Bus Protocol IPs</strong><br>
+<em><strong>Organization:</strong> Ulkasemi Internal</em><br>
+<strong>Objective:</strong> Develop UVM-based environments to verify protocol-specific IPs (APB, AHB, AXI, I2C, SPI, UART).<br>
+<strong>GitHub Repository:</strong> <a href="https://github.com/uchchhash/bus-protocol-verification.git">Bus Protocol Verification</a></em></summary>
 
 <p><strong>Contributions:</strong><br></p>
 <ul>
@@ -146,6 +149,7 @@ Presented at the 9th IEEE International Women in Engineering (WIE) Conference on
 
 <br> <!-- Add a visual gap -->
 </details>
+
 <sub>&nbsp;</sub>  
 
 ### 💻 Digital Design and Functional Verification
