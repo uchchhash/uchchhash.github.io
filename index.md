@@ -102,7 +102,7 @@ Presented at the 9th IEEE International Women in Engineering (WIE) Conference on
 ### 🔌 High-Speed Interface and Protocol Verification
 
 <details>
-<summary><strong>✅ Functional Verification of HBM3 PHY Layer</strong><br><em><strong>Organization:</strong> Synopsys Inc</em><br><strong>Objective:</strong> Implement and verify HBM3 PHY initialization and training sequences for mission mode readiness.</summary>
+<summary><strong>✅ Functional Verification of HBM3 PHY Layer</strong><br><em><strong>Organization:</strong> Inc</em><br><strong>Objective:</strong> Implement and verify HBM3 PHY initialization and training sequences for mission mode readiness.</summary>
 
 <p><strong>Contributions:</strong><br></p>
 <ul>
@@ -119,7 +119,7 @@ Presented at the 9th IEEE International Women in Engineering (WIE) Conference on
 <sub>&nbsp;</sub>  
 
 <details>
-<summary><strong>✅ Functional Coverage Checkers Development for LPDDR5x/4</strong><br><em><strong>Organization:</strong> Synopsys Inc</em><br><strong>Objective:</strong> Develop a portable functional coverage checker for LPDDR5x/4 interfaces, ensuring protocol compliance and scalability.</summary>
+<summary><strong>✅ Functional Coverage Checkers Development for LPDDR5x/4</strong><br><em><strong>Organization:</strong> Inc</em><br><strong>Objective:</strong> Develop a portable functional coverage checker for LPDDR5x/4 interfaces, ensuring protocol compliance and scalability.</summary>
 
 <p><strong>Contributions:</strong><br></p>
 <ul>
