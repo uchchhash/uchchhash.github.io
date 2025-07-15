@@ -102,7 +102,7 @@ Presented at the 9th IEEE International Women in Engineering (WIE) Conference on
 ### 🔌 High-Speed Interface and Protocol Verification
 
 <details>
-<summary><strong>✅ Functional Verification of HBM3 PHY Layer</strong><br><em><strong>Organization:</strong> Inc</em><br><strong>Objective:</strong> Implement and verify HBM3 PHY initialization and training sequences for mission mode readiness.</summary>
+<summary><strong>✅ Functional Verification of HBM3 PHY Layer</strong><br><em><strong></em><br><strong>Objective:</strong> Implement and verify HBM3 PHY initialization and training sequences for mission mode readiness.</summary>
 
 <p><strong>Contributions:</strong><br></p>
 <ul>
