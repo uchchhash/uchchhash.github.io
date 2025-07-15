@@ -102,8 +102,7 @@ Presented at the 9th IEEE International Women in Engineering (WIE) Conference on
 ### 🔌 High-Speed Interface and Protocol Verification
 
 <details>
-<summary><strong>✅ Functional Verification of HBM3 PHY Layer</strong><br><em><strong></em><br><strong>Objective:</strong> Implement and verify HBM3 PHY initialization and training sequences for mission mode readiness.</summary>
-
+<summary><strong>✅ Functional Verification of HBM3 PHY Layer </strong> <br><em></em><strong>Objective:</strong> Implement and verify HBM3 PHY initialization and training sequences for mission mode readiness.</summary>
 <p><strong>Contributions:</strong><br></p>
 <ul>
   <li>Verified portions of the initial PHY bring-up, including power supply bring-up, clock setup, reset deassertion, CSR programming, impedance calibration, PLL lock, and FIFO pointer initialization.</li>
@@ -112,14 +111,14 @@ Presented at the 9th IEEE International Women in Engineering (WIE) Conference on
   <li>Currently working on verifying further training steps as part of the team.</li>
 </ul>
 
-<p><strong>Result:</strong> Successfully implemented PHY initialization sequences, resolved critical bugs, and progressed to advanced training sequences as part of the ongoing project.</p>
+<p><strong>Result:</strong> Successfully implemented portions of PHY initialization sequences, resolved critical bugs, and progressed to advanced training sequences as part of the ongoing project.</p>
 
 <br> <!-- Add a visual gap -->
 </details>
 <sub>&nbsp;</sub>  
 
 <details>
-<summary><strong>✅ Functional Coverage Checkers Development for LPDDR5x/4</strong><br><em><strong>Organization:</strong> Inc</em><br><strong>Objective:</strong> Develop a portable functional coverage checker for LPDDR5x/4 interfaces, ensuring protocol compliance and scalability.</summary>
+<summary><strong>✅ Functional Coverage Checkers Development for LPDDR5x/4</strong> <br><em></em><strong>Objective:</strong> Develop a portable functional coverage checker for LPDDR5x/4 interfaces, ensuring protocol compliance and scalability.</summary>
 
 <p><strong>Contributions:</strong><br></p>
 <ul>
@@ -135,7 +134,7 @@ Presented at the 9th IEEE International Women in Engineering (WIE) Conference on
 <sub>&nbsp;</sub>  
 
 <details>
-<summary><strong>✅ Functional Verification of OTP and Clock/Reset Modules in a USB PD Controller</strong><br><em><strong>Organization:</strong> Texas Instruments</em><br><strong>Objective:</strong> Verify OTP operations and clock/reset functionalities in a USB Power Delivery (PD) controller to ensure compliance with design specifications.</summary>
+<summary><strong>✅ Functional Verification of OTP and Clock/Reset Modules in a USB PD Controller</strong> <br><em></em><strong>Objective:</strong> Verify OTP operations and clock/reset functionalities in a USB Power Delivery (PD) controller to ensure compliance with design specifications.</summary>
 
 <p><strong>Contributions:</strong><br></p>
 <ul>
@@ -151,9 +150,7 @@ Presented at the 9th IEEE International Women in Engineering (WIE) Conference on
 <sub>&nbsp;</sub>  
 
 <details>
-<summary><strong>✅ Functional Verification of Standard Bus Protocol IPs</strong><br>
-<em><strong>Organization:</strong> Ulkasemi Internal</em><br>
-<strong>Objective:</strong> Develop UVM-based environments to verify protocol-specific IPs (APB, AHB, AXI, I2C, SPI, UART).<br>
+<summary><strong>✅ Functional Verification of Standard Bus Protocol IPs</strong> <br><em></em><strong>Objective:</strong> Develop UVM-based environments to verify protocol-specific IPs (APB, AHB, AXI, I2C, SPI, UART).<br>
 <strong>GitHub Repository:</strong> <a href="https://github.com/uchchhash/bus-protocol-verification.git">Bus Protocol Verification</a></em></summary>
 
 <p><strong>Contributions:</strong><br></p>
@@ -173,9 +170,7 @@ Presented at the 9th IEEE International Women in Engineering (WIE) Conference on
 ### 💻 Digital Design and Functional Verification
 
 <details>
-<summary><strong>✅ RTL Design and Functional Verification of AHB to APB Bridge</strong><br>
-<em><strong>Organization:</strong> Ulkasemi Internal</em><br>
-<strong>Objective:</strong> Design and verify an AHB to APB protocol bridge to enable communication between high-speed AHB and low-speed APB peripherals in SoC systems.<br>
+<summary><strong>✅ RTL Design and Functional Verification of AHB to APB Bridge</strong> <br><em></em><strong>Objective:</strong> Design and verify an AHB to APB protocol bridge to enable communication between high-speed AHB and low-speed APB peripherals in SoC systems.<br>
 <strong>GitHub Repository:</strong> <a href="https://github.com/uchchhash/ahb-apb-bridge-design-verification.git">AHB to APB Bridge Design & Verification</a></em></summary>
 
 <p><strong>Contributions:</strong><br></p>
@@ -194,9 +189,7 @@ Presented at the 9th IEEE International Women in Engineering (WIE) Conference on
 <sub>&nbsp;</sub>  
 
 <details>
-<summary><strong>✅ RTL Design and Functional Verification of Foundational Digital Modules</strong><br>
-<em><strong>Organization:</strong> Ulkasemi Internal</em><br>
-<strong>Objective:</strong> Design and verify sequential digital modules using Verilog and SystemVerilog. (Traffic Light Controller, 4-bit Binary Counter, and Universal Shift Register)<br>
+<summary><strong>✅ RTL Design and Functional Verification of Foundational Digital Modules</strong> <br><em></em><strong>Objective:</strong> Design and verify sequential digital modules using Verilog and SystemVerilog. (Traffic Light Controller, 4-bit Binary Counter, and Universal Shift Register)<br>
 <strong>GitHub Repository:</strong> <a href="https://github.com/uchchhash/rtl-dv-foundational-modules.git">RTL & DV of Foundational Modules</a></em></summary>
 
 <p><strong>Contributions:</strong><br></p>
@@ -216,7 +209,7 @@ Presented at the 9th IEEE International Women in Engineering (WIE) Conference on
 ### 🎛️ Mixed-Signal Modeling & AMS Verification
 
 <details>
-<summary><strong>✅ Development and Integration of DMS Models and Testbench for SoC Verification</strong><br><em><strong>Organization:</strong> Designer’s Guide</em><br><strong>Objective:</strong> Develop and integrate DMS models for analog-digital co-simulation.</summary>
+<summary><strong>✅ Development and Integration of DMS Models and Testbench for SoC Verification</strong> <br><em></em><strong>Objective:</strong> Develop and integrate DMS models for analog-digital co-simulation.</summary>
 
 <p><strong>Contributions:</strong><br></p>
 <ul>
@@ -233,7 +226,7 @@ Recognized for contributions in the paper "<em>Advanced UVM-Based Chip Verificat
 <sub>&nbsp;</sub>  
 
 <details>
-<summary><strong>✅ Behavioral Modeling and AMS Verification of SoC Subsystems</strong><br><em><strong>Organizations:</strong> SigmaSense, ETA Wireless</em><br><strong>Objective:</strong> To develop and verify analog IPs in a touch controller and a wireless baseband generator using Real-Number Modeling and Verilog-AMS, enabling efficient mixed-signal simulation and seamless integration in SoC subsystems.</summary>
+<summary><strong>✅ Behavioral Modeling and AMS Verification of SoC Subsystems</strong> <br><em></em><strong>Objective:</strong> To develop and verify analog IPs in a touch controller and a wireless baseband generator using Real-Number Modeling and Verilog-AMS, enabling efficient mixed-signal simulation and seamless integration in SoC subsystems.</summary>
 
 <p><strong>Contributions:</strong><br></p>
 <ul>
