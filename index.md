@@ -123,10 +123,9 @@ Presented at the 9th IEEE International Women in Engineering (WIE) Conference on
 
 <p><strong>Contributions:</strong><br></p>
 <ul>
-  <li>Implemented illegal bin coverage for LPDDR4 and LPDDR5x, focusing on critical scenarios such as frequency changes, low power states, snooping, and sideband operations.</li>
-  <li>Developed a modular architecture using macros to support incremental updates and compatibility across DDR/LPDDR IPs, including LPDDR6.</li>
-  <li>Designed targeted negative test cases to ensure accurate detection of illegal conditions and enhance protocol compliance validation.</li>
-  <li>Currently working on extending coverage for additional scenarios as part of the ongoing project.</li>
+  <li>Implemented illegal bin coverage for LPDDR5x & LPDDR4, targeting scenarios like frequency changes, low-power states, snooping, and sideband operations.</li>
+  <li>Designed a modular, macro-based architecture supporting incremental updates, LPDDR6 compatibility, and targeted negative test cases for robust protocol compliance validation.</li>
+  <li>Delivered a scalable, reusable coverage checker that significantly improved verification efficiency across DDR/LPDDR designs.</li>
 </ul>
 
 <p><strong>Result:</strong> Delivered a scalable and reusable coverage checker, significantly improving verification efficiency for multiple DDR/LPDDR designs.</p>
