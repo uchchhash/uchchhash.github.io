@@ -106,9 +106,10 @@ Presented at the 9th IEEE International Women in Engineering (WIE) Conference on
 
 <p><strong>Contributions:</strong><br></p>
 <ul>
-  <li>Implemented key initialization steps, including power-up, clock setup, CSR configuration, and PHY initialization.</li>
-  <li>Analyzed specifications to determine correct sequences for lane repair, impedance calibration, and training.</li>
-  <li>Debugged and resolved design issues through collaboration with designers.</li>
+  <li>Verified portions of the initial PHY bring-up, including power supply bring-up, clock setup, reset deassertion, CSR programming, impedance calibration, PLL lock, and FIFO pointer initialization.</li>
+  <li>Reviewed specifications and contributed to defining testbench sequences for subsequent training phases (lane repair, write leveling, data eye, VREF, and read latency).</li>
+  <li>Collaborated with design and verification team members to debug and resolve issues observed during early calibration.</li>
+  <li>Currently working on verifying further training steps as part of the team.</li>
 </ul>
 
 <p><strong>Result:</strong> Successfully implemented PHY initialization sequences, resolved critical bugs, and progressed to advanced training sequences as part of the ongoing project.</p>
