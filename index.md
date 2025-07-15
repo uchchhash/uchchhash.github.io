@@ -151,7 +151,7 @@ Presented at the 9th IEEE International Women in Engineering (WIE) Conference on
 
 <details>
 <summary><strong>✅ Functional Verification of Standard Bus Protocol IPs</strong> <br><em></em><strong>Objective:</strong> Develop UVM-based environments to verify protocol-specific IPs (APB, AHB, AXI, I2C, SPI, UART).<br>
-<strong>GitHub Repository:</strong> <a href="https://github.com/uchchhash/bus-protocol-verification.git">Bus Protocol Verification</a></em></summary>
+<strong>GitHub Repository:</strong> <a href="https://github.com/uchchhash/bus-protocol-verification.git">Bus Protocol Verification</a></summary>
 
 <p><strong>Contributions:</strong><br></p>
 <ul>
@@ -171,7 +171,7 @@ Presented at the 9th IEEE International Women in Engineering (WIE) Conference on
 
 <details>
 <summary><strong>✅ RTL Design and Functional Verification of AHB to APB Bridge</strong> <br><em></em><strong>Objective:</strong> Design and verify an AHB to APB protocol bridge to enable communication between high-speed AHB and low-speed APB peripherals in SoC systems.<br>
-<strong>GitHub Repository:</strong> <a href="https://github.com/uchchhash/ahb-apb-bridge-design-verification.git">AHB to APB Bridge Design & Verification</a></em></summary>
+<strong>GitHub Repository:</strong> <a href="https://github.com/uchchhash/ahb-apb-bridge-design-verification.git">AHB to APB Bridge Design & Verification</a></summary>
 
 <p><strong>Contributions:</strong><br></p>
 <ul>
@@ -190,7 +190,7 @@ Presented at the 9th IEEE International Women in Engineering (WIE) Conference on
 
 <details>
 <summary><strong>✅ RTL Design and Functional Verification of Foundational Digital Modules</strong> <br><em></em><strong>Objective:</strong> Design and verify sequential digital modules using Verilog and SystemVerilog. (Traffic Light Controller, 4-bit Binary Counter, and Universal Shift Register)<br>
-<strong>GitHub Repository:</strong> <a href="https://github.com/uchchhash/rtl-dv-foundational-modules.git">RTL & DV of Foundational Modules</a></em></summary>
+<strong>GitHub Repository:</strong> <a href="https://github.com/uchchhash/rtl-dv-foundational-modules.git">RTL & DV of Foundational Modules</a></summary>
 
 <p><strong>Contributions:</strong><br></p>
 <ul>
