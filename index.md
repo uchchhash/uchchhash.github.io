@@ -264,7 +264,7 @@ Recognized for contributions in the paper "<em>Advanced UVM-Based Chip Verificat
 <summary><strong>🎯 Predictive Modelling Using Supervised Learning Techniques</strong><br>
 <em><strong>Organization:</strong> Quantum.AI, BD</em><br>
 <strong>Objective:</strong> Apply supervised machine learning algorithms to solve regression and classification problems using real-world datasets.<br>
-<strong>GitHub Repository:</strong> <a href="https://github.com/uchchhash/ml-prediction-projects.git">ML Prediction Projects</a></em></summary>
+<strong>GitHub Repository:</strong> <a href="https://github.com/uchchhash/ml-prediction-projects.git">ML Prediction Projects</a></summary>
 
 <p><strong>Contributions:</strong><br></p>
 <ul>
