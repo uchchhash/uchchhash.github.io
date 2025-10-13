@@ -102,16 +102,16 @@ Presented at the 9th IEEE International Women in Engineering (WIE) Conference on
 ### 🔌 High-Speed Interface and Protocol Verification
 
 <details>
-<summary><strong>✅ Functional Verification of HBM3 PHY Layer </strong> <br><em></em><strong>Objective:</strong> Implement and verify HBM3 PHY initialization and training sequences for mission mode readiness.</summary>
+<summary><strong>✅ Functional Verification of UCIe PHY Layer </strong> <br><em></em><strong>Objective:</strong> Develop key agent components and verify Management Transport Protocol (MTP) functionality across UCIe sideband interfaces to ensure reliable and standards-compliant inter-chiplet communication.</summary>
 <p><strong>Contributions:</strong><br></p>
 <ul>
-  <li>Verified portions of the initial PHY bring-up, including power supply bring-up, clock setup, reset deassertion, CSR programming, impedance calibration, PLL lock, and FIFO pointer initialization.</li>
-  <li>Reviewed specifications and contributed to defining testbench sequences for subsequent training phases (lane repair, write leveling, data eye, VREF, and read latency).</li>
-  <li>Collaborated with design and verification team members to debug and resolve issues observed during early calibration.</li>
-  <li>Currently working on verifying further training steps as part of the team.</li>
+  <li>Contributed to verification of clock-reset sequencing, impedance calibration (ZCAL), and RDI mainband/sideband communication for robust PHY bring-up and synchronization.</li>
+  <li>Developed and executed UVM test sequences for MTP negotiation, initialization, and runtime message flows as per UCIe r2.0 specification.</li>
+  <li>Verified Management Port Messages (MPMs) for capabilities, credit return, initialization-done, and power-management handshakes, ensuring protocol compliance and timing correctness.</li>
+  <li>Collaborated with PHY and D2D-adapter teams to debug MTP control, CSR configurations, and handshake interactions during link initialization.</li>
 </ul>
 
-<p><strong>Result:</strong> Successfully implemented portions of PHY initialization sequences, resolved critical bugs, and progressed to advanced training sequences as part of the ongoing project.</p>
+<p><strong>Result:</strong> Achieved initial bring-up with validated MTP transactions and stable RDI communication, with ongoing work toward full protocol coverage and cross-agent synchronization.</p>
 
 <br> <!-- Add a visual gap -->
 </details>
@@ -335,7 +335,7 @@ Recognized for contributions in the paper "<em>Advanced UVM-Based Chip Verificat
 <ul>
   <li>AMBA (APB, AHB, AXI)</li>
   <li>SPI, I2C, UART</li>
-  <li> HBM3 PHY</li>
+  <li> HBM3, UCIe PHY</li>
 </ul>
 
 </details>
